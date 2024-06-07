@@ -7,9 +7,21 @@ Projects
 - [Task 2 - Landing Page](#task-2---landing-page)
 - [Task 3 - Calculator](#task-3---calculator)
 
-💼 Task 1 - "PORTFOLIO"
+## Task 1 - "PORTFOLIO"
 
-Welcome to my portfolio! This repository showcases my projects, skill
+### Welcome to My Portfolio!
+
+This repository showcases my projects, skills, and experiences as a It includes a selection of my work, highlighting my expertise and accomplishments.
+
+### Features
+- **Projects Showcase:** A comprehensive display of my key projects with descriptions, technologies used, and roles played.
+- **Skills Section:** An overview of my technical skills and proficiencies.
+- **Contact Information:** Easy ways to get in touch with me.
+
+### Technologies Used
+- HTML
+- CSS
+
 
 🖥️ Task 2 - "LANDING PAGE"
 
