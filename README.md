@@ -1,6 +1,6 @@
 CODSOFT
 
-Projects
+WEB DEVELOPMENT TASK
 
 ## Table of Contents
 - [Task 1 - Portfolio](#task-1---portfolio)
@@ -21,6 +21,10 @@ This repository showcases my projects, skills, and experiences as a It includes 
 ### Technologies Used
 - HTML
 - CSS
+
+### Getting Started
+1. Clone the repository: `git clone https://github.com/sdklick/CODSOFT`
+2. Open `index.html` in your web browser to view the portfolio.
 
 
 🖥️ Task 2 - "LANDING PAGE"
