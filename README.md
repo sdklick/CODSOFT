@@ -2,6 +2,11 @@ CODSOFT
 
 Projects
 
+## Table of Contents
+- [Task 1 - Portfolio](#task-1---portfolio)
+- [Task 2 - Landing Page](#task-2---landing-page)
+- [Task 3 - Calculator](#task-3---calculator)
+
 💼 Task 1 - "PORTFOLIO"
 
 Welcome to my portfolio! This repository showcases my projects, skill
